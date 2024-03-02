@@ -5,7 +5,7 @@ import avatar from './assets/images/image-avatar.webp'
 function App() {
 
   return (
-    <article className='max-w-96 rounded-[20px] bg-white p-6 grid gap-y-6 font-figtree drop-shadow-inactive transition-all hover:drop-shadow-active'>
+    <article className='border-[1px] border-black max-w-96 rounded-[20px] bg-white p-6 grid gap-y-6 font-figtree drop-shadow-inactive transition-all hover:drop-shadow-active'>
       <img className='rounded-[20px]' src={ilustrationArticle} alt="blog"/>
       <div className='flex flex-col gap-y-3'>
         <p className='font-figtree-extrabold text-xs px-3 py-1 bg-yellow rounded-[4px] self-start'>Learning</p>
