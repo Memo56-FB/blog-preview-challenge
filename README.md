@@ -1,8 +1,13 @@
-# React + Vite
+# Blog preview card
+Este es un reto de [frontendmentor](http://frontendmentor.io "frontendmentor")
+Reto sencillo sobre la maquetación una pequeña card que pertenece a un blog de dificultar principiante
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Tecnologías utilizadas
+1. React con vite
+2. tailwind
+3. pnpm como administrador de paquetes
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Cómo Empezar
+1. Clona este repositorio.
+2. Instala las dependencias utilizando `pnpm install`.
+3. Ejecuta el proyecto con `pnpm run dev`.
